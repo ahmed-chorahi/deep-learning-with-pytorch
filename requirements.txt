@@ -1,0 +1,4 @@
+# Libraries used in this repository
+torch>=2.0
+torchvision>=0.15   # only needed for 05_computer_vision and the MNIST projects
+numpy               # used in 01_pytorch_basics/01_tensors
